@@ -64,3 +64,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+REDIS_HOST=redis-13495.c267.us-east-1-4.ec2.redns.redis-cloud.com:13495
+REDIS_PASSWORD=DfeuB0wBgETa5sP5r1aU2iIHT4oB7B56
